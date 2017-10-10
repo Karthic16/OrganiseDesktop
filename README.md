@@ -11,9 +11,9 @@ Takes all the files on your desktop and put them in folders according to extensi
 **Navigate to the OrganiseDesktop folder**
 
 
-**Now run setup.py file.**
+**Now run setup.py fil**
 
 `$ python setup.py install`
 
-##TEST TEST
+
 
